@@ -1,0 +1,16 @@
+.login-content{
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+    background-color: bisque;
+    height: 100vh;
+}
+
+.btn-lg{
+    background-color: rgba(231, 138, 23, 0.753);
+}
+
+.btn-lg:hover{
+    background-color: rgb(255, 123, 0);
+    color: white
+}
